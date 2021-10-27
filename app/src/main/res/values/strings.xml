@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyAppRoomOptional</string>
+    <string name="firstTimeOpenAndroid">com.example.myapplication.firstTimeOpenAndroid</string>
+    <string name="firstTimeOpenKotlin">com.example.myapplication.firstTimeOpenKotlin</string>
+</resources>
